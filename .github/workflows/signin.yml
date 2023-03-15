@@ -16,6 +16,4 @@ jobs:
           GP_TOKEN: ${{ secrets.GP_TOKEN}}
           PUSH_TYPES: ''
           SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
-          PUSH_TYPES: 'pushplus'
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-          SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
